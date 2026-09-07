@@ -5,12 +5,12 @@
     nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
     flake-utils.url = "github:numtide/flake-utils";
     flake-lib = {
-      url = "github:jgus/flake-lib/v1";
+      url = "github:jgus-org/flake-lib/v1";
       inputs.nixpkgs.follows = "nixpkgs";
       inputs.flake-utils.follows = "flake-utils";
     };
     unsloth-zoo = {
-      url = "github:jgus/unsloth-zoo-flake";
+      url = "github:jgus-org/unsloth-zoo-flake";
       inputs.nixpkgs.follows = "nixpkgs";
       inputs.flake-utils.follows = "flake-utils";
       inputs.flake-lib.follows = "flake-lib";
@@ -65,7 +65,7 @@
                 {
                   reqName = "unsloth-zoo";
                   pypiName = "unsloth-zoo";
-                  flakeRepo = "jgus/unsloth-zoo-flake";
+                  flakeRepo = "jgus-org/unsloth-zoo-flake";
                   mode = "resolve";
                 }
               ];
