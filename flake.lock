@@ -10,11 +10,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1789076164,
-        "narHash": "sha256-J1ejsQ8AkC0oRhXWYJO7BkeSiop7t2qovIU2IGUnPmE=",
+        "lastModified": 1789155713,
+        "narHash": "sha256-eaf+KShNf99BTkcJ2wS8Fl7yHrfXCQFtanAK9ZYJ+4c=",
         "owner": "jgus-org",
         "repo": "flake-lib",
-        "rev": "65799267ab37656b9a92af28c50675768a4a052b",
+        "rev": "c824b2e18456ba6982231c891dda2d2fb3cd7479",
         "type": "github"
       },
       "original": {
@@ -94,11 +94,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1789128150,
-        "narHash": "sha256-GWJOYob3tG46aFUOya1JXuM6XLYyu9zhsCESnWDUHlA=",
+        "lastModified": 1789212540,
+        "narHash": "sha256-bXe66Cx5r3Nklrz9WGmKW9ZYJIFa+ZfU51IOTOBP9E0=",
         "owner": "jgus-org",
         "repo": "unsloth-zoo-flake",
-        "rev": "4ca9d322c5a72ee9530716fda9a57d96526c9624",
+        "rev": "4ce547673a97734c29916d85ab482274647f5dc3",
         "type": "github"
       },
       "original": {
